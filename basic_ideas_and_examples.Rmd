@@ -1,0 +1,168 @@
+---
+title: "Basic Ideas and Examples" 
+subtitle: "Introduction and General Principles"
+author: "Econ 2160 - Strategic Analysis Chapter 1"
+date: ""
+output: 
+  xaringan::moon_reader:
+    nature: 
+      highlightStyle: github
+    css: [metropolis, styles]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE) 
+```
+
+
+# What is a Game of Strategy 
+
+- There are many kinds of games 
+  - Chance (e.g. one-armed bandit)
+  - Skill (e.g. 100m sprint)
+  - Strategy (e.g. chess) 
+  
+- Strategic thinking is about your interactions with others as they do similar thinking at the same time and about the same situation 
+- So we can think of game theory as the analysis of interactive decision making 
+
+
+
+  
+
+---
+class: middle, center, inverse 
+
+
+# Some Examples Of Strategic Games
+
+---
+
+# Run or Pass? 
+
+- You're at the two-yard line
+
+- Your Pro-Bowl RB is averaging 4 yards per carry  & is famously difficult to tackle (and had gained 4 yds on the previous play)
+
+- Your Pro-Bowl QB is having a good but inefficient game  
+
+- You have one timeout and about thirty seconds 
+
+- The elements systematically call for a run
+
+---
+  
+
+# The GPA Rat Race  
+
+- Your class is graded on a curve 
+  - 40% of the students will receive As 
+  - 40% of the students will receive Bs 
+  
+- Your class forms a coalition to not work too hard 
+
+- You note that if you work a little bit harder you can substantially improve your GPA, so you study a little bit harder 
+
+- Everyone else comes to the same conclusion and now everyone is working harder than they would like 
+
+- This situation is a version of the *prisoners' dilemma*  
+
+
+---
+
+# Prisoners' Dilemma Example 
+
+<center>
+
+<iframe width="800" height="525" src="https://www.youtube.com/embed/rN7pkFNEg5c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+</center>
+
+ 
+---
+# .small[We Can't Take The Exam Because We Had A Flat Tire]
+
+- Two Vanderbilt students go to a party in Memphis a couple days before a final exam 
+
+- They return late the next day and are unable to study for the exam 
+
+- Instead of taking the exam they craft an excuse that they were stuck in Memphis because they caught a flat tire and had great difficulty finding assistance
+
+- The professor accepts the excuse and administers the exam the following day  
+
+
+---
+
+- Question 1 is simple and worth 10%. Both students get full marks.  
+
+- Question 2 asks "Which tire?" and is worth 90 percent. 
+
+- If they guess randomly and independently, they have a 25% chance of being correct. 
+  - They both have the same options: {Front Driver, Rear Driver, Front Passenger, Rear Passenger} 
+  - This yield 16 outcomes, 4 where they pick the same tire? 
+  - Can they improve upon this? 
+  
+- It may seem obvious that the most likely tire would be the front passenger, but it's important to consider what your co-conspirator believes and what your co-conspirator believes you believe and so on 
+  - As a note 50% of people select the front driver's side tire 
+  - Without more info, these games don't converge on a **focal point** 
+
+
+
+---
+# Why Are Professors So Mean 
+
+- Most professors draw a hard line on makeup exams and tardy submissions  
+
+- The reason for this is because it is difficult to distinguish between legitimate and fraudulent excuses 
+
+- The only option is to adopt a "no excuses" strategy, but they will need a **credible commitment device** in order for the students to take the threat seriously 
+  - can lean on university policy  
+  - can make an early announcement
+  - can make early harsh examples 
+
+
+---
+ 
+# Roommates And Families On The Brink  
+
+- You share an apartment with someone where you mutually agree to share the expenses of communal necessities - dishwasher detergent, paper towels, beer, toilet paper, etc. 
+
+- However, one of you incurs an additional cost by physically getting the goods. How is this resolved? 
+
+- Perhaps you play the waiting game, until one of you breaks. 
+
+- In the dynamic context, conditions can deteriorate to the point where you run out of something critical. i.e. each of you and your roommate is pushing the other to the *brink* of catastrophe. 
+  - This strategy is called **brinksmanship**  
+
+---
+# The Dating Game 
+
+Dating is a classic game of hidden information 
+
+- You would like to amplify your good qualities while concealing the bad ones. Your date has a similar strategy. 
+  - The goal for both is determine the **signal** from the **noise** 
+
+- Each of you needs to determine actions that are both **credible** and **costly** (not always in the sense of money) .
+  - It's easy to groom so may provide little information 
+  - Flowers are cheap  
+  - Habits are harder to fake & are revealing 
+  - Costly gifts can be a credible signal of commitment 
+
+- Dating is a game of **uncertain** and **incomplete** information where you would like to induce someone to reveal credible information. You induce them through the use of **screening devices**  
+
+ 
+---
+# Our Strategy For Studying Games Of Strategy 
+
+- The previous slides show frequent situations that come up in everyday life where you might not have realized you were exercising strategic thinking. 
+
+- Moving forward we're going to construct a *theory* of strategic action 
+
+- At first it may seem abstract but at the end you will have a better understanding of *why* games have the outcomes they do and not just *how* 
+
+- What's to come tomorrow? *How to Think about Strategic Games*
+
+
+ 
+
+
+
