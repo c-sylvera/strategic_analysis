@@ -1,0 +1,202 @@
+---
+title: "Course Syllabus" 
+subtitle: "Econ 2160 - Strategic Analysis"
+output: html_document
+---
+
+## Course Information 
+
+Econ 2160-01   
+Strategic Analysis   
+Summer 2020    
+M-F 1:10 p.m.-3:00 p.m.   
+
+## Instructor Contact Information 
+
+Craig Sylvera   
+email: craig.sylvera@vanderbilt.edu  
+Student Hours: T & Th 1:10 p.m.-3:00 p.m. Always feel free to send me an email. 
+
+
+## Course Pre-requisites, Co-requisites, And/Or Other Restrictions 
+
+This is an introductory course to game theory and its application in economic theory and does not require you alreasy know game theory. However, the course will assume you have a good knowledge of algebra and some calculus techniques may be utilized.  
+
+## Course Description 
+
+Game theory is used extensively in economic thinking to better understand strategic behavior. Not limited to economics, the last three decades have seen the spread of game theory to applications in the field of political science, international relations, industrial organization, business administration, law, biology, and more.  
+
+Strategic behavior involves careful decision making in interactive scenarios between rational agents who are well aware of the dependence of interactions. The course will pave a way to learn to analyze such strategic interaction and decision making. 
+
+Although this is an introductory course on game theory, it will cover a substantial amount of the methods and topics in the field. To follow the course therefore will require careful and deep understanding of the subtle ideas introduced in class. The quizzes will then be tests of how well the student has grasped the concepts of game theory, and how effectively the student can apply these concepts to problems.  
+
+As you may know --- or may not, this feels like it occurred epochs ago --- this class was scheduled to be in person. Our current circumstances have altered those plans and the method of instruction should reflect these changed circumstances. Instead of meeting everyday for two hours via Zoom or some other online conferencing tool, I will record short modules of the chapters ahead of time, and you will be responsible for watching them. We'll meet once a week in person to review homework from the previous week and check in on your progress. I'll schedule quizzes biweekly as a mechanism for you to keep up with the material. Over the course of watching the lectures if you have a question that isn't sufficiently covered in the lecture, you can email me, and I'll cover it in a subsequent lecture.  
+
+## Student Learning Objectives/Outcomes 
+
+This course aims to train students in the logic and strategic decision making involved in the theory of games. From the classification of games, the course will move onto important definitions and concepts of game theory and teach students to solve strategic games between two and more agents in noncooperative scenario.  
+
+Students will learn to analyze and solve both simultaneous-move and sequential-move games and will be familiarized with different solution concepts like minimax, Nash equilibrium, dominant strategy equilibrium, subgame perfect equilibrium, etc. They will also learn different methods to solve games, like backward induction, best responses, dominance and elimination of strategies, etc. 
+
+The knowledge will then be extended to mixed strategy equilibria, and to repeated games. Applications of game theory in voting, bargaining, and collective action will follow so students recognize and understand game theory in the world around them. 
+
+Students will be expected to absorb and apply the concepts and ideas that constitute these various game types and their solutions, and apply them to problems at hand. Additionally, they will be expected to effectively communicate how game theoretic analysis shaped historical outcomes. 
+
+## Textbooks & Materials 
+
+*Optional:* **Games of Strategy**, A. Dixit, S. Skeath, & D. Reiley, 4th edition (W.W. Norton & Co. 2015) 
+
+My slides are a fairly faithful rendition of the textbook, and I'll send out a pdf with the homework problems on it. However, if you want to read the textbook or do additional problems, please feel free and encouraged.  I additionally may cover one or two papers from economics' journals time-permitting. I'll post those on brightspace. 
+
+*Required:* **Segregation By Design: Local Politics And Inequality In American Cities**, J. Trounstine. Here's a link to Amazon. You can purchase it wherever you want or if you find it online, that's fine too. [Segregation By Design](https://www.amazon.com/Segregation-Design-Politics-Inequality-American/dp/1108454984/ref=sr_1_1_sspa?crid=23SPKVZEZSXLU&dchild=1&keywords=segregation+by+design&qid=1593488238&sprefix=segregation%2Caps%2C171&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFaUTlPUjdLUTEzOU8mZW5jcnlwdGVkSWQ9QTAwODc2Njc4RklPWk81MkZYOEwmZW5jcnlwdGVkQWRJZD1BMDM0NzI1MzJFNTg2MVlFVDVNSlomd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) 
+
+Writing will be a focal component of this course. Here are some optional but very useful texts: 
+
+**The Elements of Style**, W. Strunk Jr. & E.B. White. This should be required at some point in your college education, highly recommend. 
+
+**On Writing Well**, W. Zinsser 
+
+**Common Errors in English Usage**, P. Brians, 3^rd^ edition, revised and expanded. Great cocktail party material if your goal is to be universally scorned for being a pedant. 
+
+**Economical Writing: Thirty-Five Rules For Clear And Effective Persuasive Prose**, D. McCloskey. I mean, who doesn't love rules. 
+
+## Course Progression & Assignments 
+
+1. **Introduction**   
+  Fundamental concepts, definitions, and classification of games   
+  *Chapters 1,2* 
+  
+2. **Games With Sequential Moves**   
+  Game tree representation, actions & strategies, advantage in moving first or last, backward induction   
+  *Chapter 3* 
+  
+3. **Simultaneous-Move Games (Pure Strategies)**  
+  Normal form representation, Nash equilibrium, dominance, minimax solution concept for zero-sum games, 
+  rationalizability, multiple equilibria, no equilibrium, discrete and continuous strategies, 3-player 
+  games  
+  *Chapter 4* 
+
+4. **Simultaneous-Move Games (Mixed Strategies)**   
+  Mixing to keep the opponent guessing, mixing in non-zero-sum games, expected values & utility, mixing 
+  with three strategies   
+  *Chapter 7*, *Appendix of chapter 7* on probability and expected utility 
+  
+5. **Simultaneous & Sequential-Move Games**   
+  Converting game trees to normal form and vice versa, changing order of moves, games with both 
+  sequential and simultaneous moves   
+  *Chapter 6*   
+  Cournot/Stackleberg/Bertrand models application to firm profit maximization  
+  *Chapter 5* 
+  
+6. **Application: Voting**  
+  Voting rules, paradoxes, strategic manipulation  
+  *Chapter 15*  
+  
+7. **Strategic Moves And Brinksmanship**   
+  Credibility, commitments, threats, promises, burning bridges   
+  *Chapters 10 & 14* 
+  
+8. **Prisoners' Dilemma, Repeated Games, And Collective Action**  
+  Finite and infinite repetition, leadership, folk theorem, application: price matching, collective action and inaction   
+  *Chapters 11 & 12* 
+  
+9. **Application: Auctions**  
+  Types of auctions, winner's curse, all-pay auctions, how to sell at auction  
+  *Chapter 16* 
+  
+10. **Application: Bargaining**   
+  Nash bargaining, ultimatum game, alternating offers game, threat points, bargaining shares  
+  *Chapter 17*  
+  
+11. **Economic Applications in Practice**   
+  "Was Postwar Suburbanization "White Flight"? Evidence From The Black Migration," Leah Platt Boustan, *QJE*, Feb 2010  
+  "Gridlock: Ethnic Diversity in Government and in the Provision of Public Goods," Brian Beach & Daniel B. Jones, *AEJ: Economic Policy*, Feb 2017
+  
+## Tentative Schedule 
+
+**Week** | Material 
+----|----    
+Week 1 | Chapters 1, 2, 3
+7/7-7/10 | No quizzes 
+Week 2 | Chapters 4, 7, 6 
+7/13-7/17 | Quizzes 1 & 2 
+Week 3 | Chapters 5, 15, 10
+7/20-7/24 | Quizzes 3 & 4 
+Week 4 | Chapters 14, 11, 12 
+7/27-7/31 | Quizzes 5 & 6 
+Week 5 | Chapters 16, 17, selected readings 
+8/3-8/7 | Quizzes 7 & 8  
+   | **Essay due midnight 8/8**
+  
+## Evaluation & Grading Policy 
+
+Take this as suggestive. If your final grade is within one of these bins, your grade will be no lower than that.
+
+__Grading Scale:__ |  
+-------------------|-----------  
+A | 94-100 
+A- | 90-93 
+B+ | 87-89 
+B | 84-86 
+B- | 80-83 
+C+ | 77-79 
+C | 74-76 
+C- | 70-73 
+D+ | 67-69 
+D | 64-66 
+D- | 60-63 
+F | Below 60 
+
+## Assessment
+
+Students' progress will be calculated using the following categories and weights: 
+
+  **Homework:** (40%)   
+  Homework will be assigned after each chapter over the course of the semester. Homework for the previous week is due the following Monday before the start of 
+  class. Homework that is turned in late is subject to a 20% penalty. The last possible day to turn in homework is the final Thursday of the semester. Neatness
+  and legibility are much appreciated. I won't take points off for messy handwriting unless I cannot decipher your work. There are four total homework            assignments each worth ten points. Each assignment is converted into its final points by the following method: 
+  
+  __Grading Scale:__|    
+  ---|---
+  [.9, 1] | 10 pts 
+  [.7, .9) | 9 pts 
+  [.5, .7) | 7 pts 
+  (0, .5) | 5 pts 
+  Missing, 0 | 0 pts 
+  
+  **Quizzes:** (40%)   
+  Quizzes will be given on Mondays and Thursdays throughout the semester. Quizzes will be conducted through Brightspace using Lockdown Browser. Each quiz is 
+  worth five points. For questions that may include arithmetic, I'll allow you to take a picture of your work and email it to me. There will be eight 
+  quizzes throughout the semester. I will announce ahead of time the material to be covered in each quiz. There are no makeup quizzes. If you miss one quiz,      I'll count the score twice of the subsequent quiz. All quizzes missed after the first will be zero. I'll do my best to accommodate before the quiz is given. 
+  The grading scale for quizzes is  
+  
+  __Grading Scale:__|   
+  ---|--- 
+  [.8. 1] | 5 pts 
+  [.6, .8) | 4 pts 
+  [.4, .6) | 3 pts 
+  [.2, .4) | 2 pts 
+  [0, .2) | 1 pt 
+  
+  **Essay (Final Exam):** (15%)   
+  In lieu of a comprehensive final exam or any long-form exam, you will read a book and write a 1200-word essay (roughly 4 pages). I'll be more comprehensive of
+  what I expect from you within a week or two of the semester. The skeleton of the essay will roughly be 1/3 summary of the book, 1/3 game theoretic analysis 
+  of the processes the book highlights (voting, public goods expenditure, in- and out-migration, etc), 1/3 discussion of what you might predict for cities in 
+  the future given what you've learned from the book.  
+  
+  **Attendance:** (5%)   
+  For every Monday class (and the first class of the semester) you attend you will receive 1% toward your final grade. 
+  
+## Make-up Policy 
+
+I understand that life happens and the situation we find ourselves in is unusual. If you have a legitimate reason for not being able to attend the class, please email me ahead of time. Absences for university-sanctioned events will be accommodated; however it is your responsibility to notify me before the absence. Written explanations concerning legitimate absences are expected and are appreciated.   
+
+Students absent from classes because of observances of major religious holidays will be excused. 
+
+## Academic Integrity: 
+
+This course adheres to the conditions established in the Vanderbilt Honor Code. Acts of academic dishonesty will not be tolerated. 
+
+**These descriptions and timelines are subject to change at the discretion of the Professor.**
+  
+  
